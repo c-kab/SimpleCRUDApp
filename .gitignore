@@ -24,3 +24,7 @@ HELP.md
 /nbdist/
 /.nb-gradle/
 /build/
+
+### Angular ###
+/resources/restClient/e2e
+/resources/restClient/node_modules
